@@ -1,7 +1,8 @@
 **About This Repository**
-My name is Simon Diaz , and I am a Software Development major at Harding University. This repository contains selected code samples representing concepts and projects I have worked on throughout my academic career.
 
-The purpose of this repository is to showcase my programming experience, problem-solving abilities, and familiarity with a variety of technologies and coursework. The files included are code snippets rather than complete project solutions in order to maintain the academic integrity of assignments created by my professors.
+My name is Simon Diaz, and I am a Software Development major at Harding University. This repository contains selected code samples representing concepts and projects I have worked on throughout my academic career.
+
+The purpose of this repository is to showcase my programming experience, problem-solving abilities, and familiarity with a variety of technologies and coursework. The files included are code snippets rather than complete project solutions to maintain the academic integrity of assignments created by my professors.
 
 Each directory corresponds to a course I have completed, and the included code highlights skills and concepts learned within that class.
 
@@ -15,9 +16,9 @@ These samples do not represent the entirety of my academic work or technical exp
 **Web Development II**
 - Advanced full-stack development using the MERN stack (MongoDB, Express, React, Node.js), focusing on API development and modern web applications.
 **Object-Oriented Programming**
-- Study of object-oriented principles including classes, inheritance, polymorphism, encapsulation, and software design practices.
+- Study of object-oriented principles, including classes, inheritance, polymorphism, encapsulation, and software design practices.
 **Operating System Concepts**
-- Introduction to operating systems including processes, memory management, file systems, and system-level concepts.
+- Introduction to operating systems, including processes, memory management, file systems, and system-level concepts.
 **Cloud Computing**
 - Study of cloud computing with a focus on Amazon Web Services (AWS), deployment models, and scalable infrastructure.
 **Database Concepts and Applications**
